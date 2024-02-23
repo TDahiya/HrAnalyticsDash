@@ -7,7 +7,6 @@ My Hr Analytics Dashboard in PowerBi provides a comprehensive visualization of C
 - Easy to use and understand.
 - Provides an overview of the Attrition Patterns .   
 - Allows User to filter data by Educational Feilds.
--![Image 1](assets/1st.JPG)
 ![Image 1](assets/1st.png)
 ![Image 2](assets/hr.png)
 ![Image 3](assets/rd.png)
