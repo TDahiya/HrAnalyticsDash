@@ -1,4 +1,4 @@
-# Hr Analytics Dashboard 2.0
+# Hr Analytics Dashboard 1.0
 Hi , this is a Hr Analytics Dashboard i created using PowerBi hope you like this .
 My Hr Analytics Dashboard in PowerBi provides a comprehensive visualization of Companys attirations by Age , Education feilds , Gender , Satisfaction rate and many more . It is  user-friendly interface for efficient monitoring and analysis. With intuitive graphs and charts, it offers insights into attrition patterns.    
 
